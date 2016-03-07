@@ -35,9 +35,9 @@
             <string>EndOfCheckPhase</string>
         </dict>
         <dict>
-			<key>Processor</key>
+	    	<key>Processor</key>
 			<string>CodeSignatureVerifier</string>
-			<key>Arguments</key>
+	    	<key>Arguments</key>
 			<dict>
 				<key>input_path</key>
 				<string>%pathname%/Transmission.app</string>
